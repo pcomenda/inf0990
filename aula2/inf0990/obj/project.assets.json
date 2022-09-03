@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\msft57\\aula2\\inf0990\\inf0990.csproj",
+      "projectUniqueName": "c:\\Users\\msft57\\aula2\\inf0990\\aula2\\inf0990\\inf0990.csproj",
       "projectName": "inf0990",
-      "projectPath": "C:\\Users\\msft57\\aula2\\inf0990\\inf0990.csproj",
+      "projectPath": "c:\\Users\\msft57\\aula2\\inf0990\\aula2\\inf0990\\inf0990.csproj",
       "packagesPath": "C:\\Users\\msft57\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\msft57\\aula2\\inf0990\\obj\\",
+      "outputPath": "c:\\Users\\msft57\\aula2\\inf0990\\aula2\\inf0990\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\msft57\\AppData\\Roaming\\NuGet\\NuGet.Config"
