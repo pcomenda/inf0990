@@ -13,3 +13,11 @@ C:\Users\msft57\aula2\inf0990\aula2\inf0990\obj\Debug\net6.0\refint\inf0990.dll
 C:\Users\msft57\aula2\inf0990\aula2\inf0990\obj\Debug\net6.0\inf0990.pdb
 c:\Users\msft57\aula2\inf0990\aula2\inf0990\obj\Debug\net6.0\inf0990.genruntimeconfig.cache
 c:\Users\msft57\aula2\inf0990\aula2\inf0990\obj\Debug\net6.0\ref\inf0990.dll
+C:\Users\msft57\aula2\inf0990\obj\Debug\net6.0\inf0990.csproj.AssemblyReference.cache
+C:\Users\msft57\aula2\inf0990\obj\Debug\net6.0\inf0990.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msft57\aula2\inf0990\obj\Debug\net6.0\inf0990.AssemblyInfoInputs.cache
+C:\Users\msft57\aula2\inf0990\obj\Debug\net6.0\inf0990.AssemblyInfo.cs
+C:\Users\msft57\aula2\inf0990\obj\Debug\net6.0\inf0990.csproj.CoreCompileInputs.cache
+C:\Users\msft57\aula2\inf0990\obj\Debug\net6.0\inf0990.dll
+C:\Users\msft57\aula2\inf0990\obj\Debug\net6.0\refint\inf0990.dll
+C:\Users\msft57\aula2\inf0990\obj\Debug\net6.0\inf0990.pdb
